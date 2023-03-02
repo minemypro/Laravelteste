@@ -1,0 +1,43 @@
+body {
+    background: rgb(210, 209, 217);
+    background: linear-gradient(
+        90deg,
+        rgba(210, 209, 217, 1) 0%,
+        rgba(236, 236, 236, 1) 35%,
+        rgba(188, 232, 241, 1) 100%
+    );
+}
+
+.todac {
+    background-color: rgb(182, 179, 179);
+    width: 94%;
+    height: 750px;
+    margin: auto;
+    position: relative;
+}
+
+.formulario_titulo {
+    background-color: rgb(33, 103, 48);
+    text-align: center;
+    color: antiquewhite;
+    padding: 15px;
+}
+
+.formulario_principaldiv{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    position: absolute;
+    top: 100px;
+    margin: auto;
+    left: 200px;
+    border-radius: 30px;
+    box-shadow: 8px 1px 8px 2px rgba(0, 0, 0, 0.259);
+    border: solid 2px  rgb(33, 103, 48);
+}
+
+
+.centralizarbotoes{
+    padding-top: 30px;
+    text-align: center;
+    margin: auto;
+}
